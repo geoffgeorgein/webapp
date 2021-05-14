@@ -1,0 +1,33 @@
+
+body{
+background-color: #f4f4f4;
+color:#555555;
+font-family:Helvetica ;
+text-align:center;
+font-size:19px;
+line-height: 1.5em;
+}
+.container{
+  width=80%;
+}
+.box1{
+  border-left: 5px red solid;
+  border-right: 5px red solid;
+  background-color: #fff;
+  border: 6px red solid;
+}
+
+.box1 h2{
+
+  font-family: tahoma;
+  font-style: italic;
+
+  text-transform: uppercase;
+}
+.box1 p{
+
+  font-family: tahoma;
+  font-style: italic;
+  text-decoration: italic;
+
+}
