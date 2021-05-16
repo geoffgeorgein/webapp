@@ -1,7 +1,8 @@
 
 body{
-background-color: #f4f4f4;
-color:#555555;
+
+background-color: rgb(164, 166, 156,1);
+background-color: linear-gradient(230 deg);
 font-family:Helvetica ;
 text-align:center;
 font-size:19px;
@@ -11,10 +12,9 @@ line-height: 1.5em;
   width=80%;
 }
 .box1{
-  border-left: 5px red solid;
-  border-right: 5px red solid;
-  background-color: #fff;
-  border: 6px red solid;
+
+  background-color: ;
+
 }
 
 .box1 h2{
@@ -30,4 +30,25 @@ line-height: 1.5em;
   font-style: italic;
   text-decoration: italic;
 
+}
+.categories ul{
+  text-align: center;
+  padding-left: 0;
+
+  list-style: none;
+
+
+}
+a{
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+}
+a:hover{
+  color:rgb(229, 255, 89);
+}
+a:visited{
+  color:rgb(193, 5, 245);
+}
+a:active{
+  color:rgb(245, 5, 21);
 }
