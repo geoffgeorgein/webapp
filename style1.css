@@ -5,11 +5,14 @@ background-color: rgb(164, 166, 156,1);
 background-color: linear-gradient(230 deg);
 font-family:Helvetica ;
 text-align:center;
+
+
 font-size:19px;
 line-height: 1.5em;
 }
 .container{
   width=80%;
+
 }
 .box1{
 
@@ -38,6 +41,12 @@ line-height: 1.5em;
   list-style: none;
 
 
+}
+.button{
+	background-color:#333;
+	color:#fff;
+	padding:10px 15px;
+	border:none;
 }
 a{
   text-decoration: none;
@@ -70,4 +79,12 @@ padding:10px;
   width: 40%;
   border:none;
 
+}
+.fixme{
+  position: fixed;
+  top: 400px;
+
+}
+.bu{
+  float: left;
 }
