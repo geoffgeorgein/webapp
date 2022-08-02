@@ -1,0 +1,12 @@
+body{
+    background-color: yellowgreen;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+.container{
+    width:40%;
+    padding-top:10%;
+    margin:auto;
+    
+}
